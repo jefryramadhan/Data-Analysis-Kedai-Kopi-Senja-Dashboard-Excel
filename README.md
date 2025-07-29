@@ -1,7 +1,7 @@
 # Analisis Penjualan & Dashboard Interaktif Kedai Kopi Senja
 
 ## Dataset yang Digunakan
-- <a href="https://github.com/jefryramadhan/Data-Analysis-Dashboard/blob/main/Analisis%20Penjualan-Kedai%20kopi%20senja.xlsx">Dataset</a>
+- <a href="https://github.com/jefryramadhan/Data-Analysis-Kedai-Kopi-Senja-Dashboard/blob/main/Analisis%20Penjualan-Kedai%20kopi%20senja.xlsx">Dataset</a>
 
 ## Latar Belakang Proyek
 Proyek ini merupakan studi kasus analisis penjualan untuk sebuah kedai kopi fiktif, **"Kedai Kopi Senja"**. Tujuannya adalah untuk mengolah data transaksi mentah selama periode Juni 2025 menjadi sebuah dashboard interaktif. Dashboard ini dirancang untuk memberikan wawasan bisnis yang dapat memberikan insight kepada pemilik kedai, membantu mereka beralih dari pengambilan keputusan berbasis intuisi ke berbasis data.
@@ -19,7 +19,7 @@ Proyek ini dikerjakan melalui beberapa tahapan utama:
 2. **Data Cleaning:** Membersihkan data seperti inkonsistensi nama, data kosong dan format yang salah menggunakan rumus `TRIM`, `PROPER`, `UPPER`, `Find & Replace`, dan `Filter`.
 3. **Data Analysis:** Menganalisis data menggunakan PivotTable untuk mengetahui pola dan tren penjualan.
 4. **Data Visualization:** Membangun dashboard interaktif menggunakan PivotTable dan slicer untuk visualisasi data.
-5. **Dashboard Intreaktif:** <a href="https://github.com/jefryramadhan/Data-Analysis-Dashboard/blob/main/Dashboard1.png">Lihat Dashboard</a>
+5. **Dashboard Intreaktif:** <a href="https://github.com/jefryramadhan/Data-Analysis-Kedai-Kopi-Senja-Dashboard/blob/main/Dashboard1.png">Lihat Dashboard</a>
 
 ## Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/1dd7f86f-c2f0-434b-9984-6bcb189d12a7)
