@@ -28,7 +28,7 @@ Proyek ini dikerjakan melalui beberapa tahapan utama:
 ## Insight
 Beberapa insight utama yang ditemukan dari analisis ini adalah:
 1. **Dominasi Produk:** Kopi Latte merupakan penyumbang terbesar 28% dari total pendapatan, dan Donat Cokelat menjadi penyumbang terendah dengan 11,66% dari total pendapatan.
-2. **Pola Penjualan Mingguan:** Terdapat pola penjualan jelas dimana puncak penjualan selalu berada di antara hari rabu - jumat..
+2. **Pola Penjualan Mingguan:** Terdapat pola penjualan jelas dimana puncak penjualan selalu berada di antara hari rabu - jumat.
 3. **Jam Sibuk/ Ramai:** Saat pagi hari (00.00 - 11.00) adalah waktu paling krusial dimana menyumbang 49,38% dari total orderan/transaksi harian.
 
 ## Rekomendasi 
