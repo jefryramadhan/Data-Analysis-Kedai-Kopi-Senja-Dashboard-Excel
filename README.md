@@ -47,7 +47,7 @@ Allocate employees by adding employees to the morning shift.
     * Dashboarding
 
 ## Detail Proyek
-1. **See Full Presentation:** For a summary of case studies, findings, and recommendations, please see the file. (https://github.com/jefryramadhan/Data-Analysis-Dashboard/blob/main/Analisis%20%26%20Rekomendasi%20Penjualan%20Kedai%20Kopi%20Senja%20Juni%202025.pdf).
+1. **See Full Presentation:** For a summary of case studies, findings, and recommendations, please see the file. (https://github.com/jefryramadhan/Data-Analysis-Kedai-Kopi-Senja-Dashboard-Excel/blob/main/Analysis%20%26%20Business%20Recommendation%20Senja%20Coffee%20shop.pdf).
 
 ## Kontak
 * **LinkedIn:** (www.linkedin.com/in/jefry-ramadhan)
