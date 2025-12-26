@@ -1,7 +1,7 @@
 # Sales Analysis & Interactive Dashboard for Senja Coffee Shop
 
 ## Dataset used
-- <a href="https://github.com/jefryramadhan/Data-Analysis-Kedai-Kopi-Senja-Dashboard/blob/main/Analisis%20Penjualan-Kedai%20kopi%20senja.xlsx">Dataset</a>
+- <a href="https://github.com/jefryramadhan/Data-Analysis-Kedai-Kopi-Senja-Dashboard-Excel/blob/main/Analysis%20Sales%20Senja%20Coffee%20Shop.xlsx">Dataset</a>
 
 ## Project Background
 This project is a sales analysis case study for a fictional coffee shop, **“Kedai Kopi Senja”**. The goal is to process raw transaction data for the period of June 2025 into an interactive dashboard. This dashboard is designed to provide business insights that can give the shop owner insight, helping them shift from intuition-based decision making to data-based decision making.
