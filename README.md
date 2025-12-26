@@ -1,43 +1,43 @@
-# Analisis Penjualan & Dashboard Interaktif Kedai Kopi Senja
+# Sales Analysis & Interactive Dashboard for Senja Coffee Shop
 
-## Dataset yang Digunakan
+## Dataset used
 - <a href="https://github.com/jefryramadhan/Data-Analysis-Kedai-Kopi-Senja-Dashboard/blob/main/Analisis%20Penjualan-Kedai%20kopi%20senja.xlsx">Dataset</a>
 
-## Latar Belakang Proyek
-Proyek ini merupakan studi kasus analisis penjualan untuk sebuah kedai kopi fiktif, **"Kedai Kopi Senja"**. Tujuannya adalah untuk mengolah data transaksi mentah selama periode Juni 2025 menjadi sebuah dashboard interaktif. Dashboard ini dirancang untuk memberikan wawasan bisnis yang dapat memberikan insight kepada pemilik kedai, membantu mereka beralih dari pengambilan keputusan berbasis intuisi ke berbasis data.
+## Project Background
+This project is a sales analysis case study for a fictional coffee shop, **“Kedai Kopi Senja”**. The goal is to process raw transaction data for the period of June 2025 into an interactive dashboard. This dashboard is designed to provide business insights that can give the shop owner insight, helping them shift from intuition-based decision making to data-based decision making.
 
 ## Tujuan & (KPIs)
-Analisis ini difokuskan untuk menjawab pertanyaan-pertanyaan bisnis seperti:
-1. Produk manakah yang menjadi penyumbang pendapatan terbesar atau paling diminati dan produk mana yang kurang diminati?
-2. Bagaimana tren penjualan harian produk per Juni 2025?
-3. Pada jam berapakah kedai mengalami transaksi paling banyak/ jam sibuk kedai?
-4. Kategori produk mana yang memiliki pendapatan terbesar?
+This analysis focuses on answering business questions such as:
+1. Which products contribute the most to revenue or are the most popular, and which products are less popular?
+2. What are the daily sales trends for products as of June 2025?
+3. At what time does the store experience the most transactions/peak hours?
+4. Which product category has the highest revenue?
 
-## Proses Kerja
-Proyek ini dikerjakan melalui beberapa tahapan utama:
-1. **Data Preparation:** Membuat dataset fiktif menggunakan fungsi Excel.
-2. **Data Cleaning:** Membersihkan data seperti inkonsistensi nama, data kosong dan format yang salah menggunakan rumus `TRIM`, `PROPER`, `UPPER`, `Find & Replace`, dan `Filter`.
-3. **Data Analysis:** Menganalisis data menggunakan PivotTable untuk mengetahui pola dan tren penjualan.
-4. **Data Visualization:** Membangun dashboard interaktif menggunakan PivotTable dan slicer untuk visualisasi data.
-5. **Dashboard Intreaktif:** <a href="https://github.com/jefryramadhan/Data-Analysis-Kedai-Kopi-Senja-Dashboard/blob/main/Dashboard1.png">Lihat Dashboard</a>
+## Process
+This project include was several stages :
+1. **Data Preparation:** Create fictive data with function in excel.
+2. **Data Cleaning:** Cleaning data such as name inconsistencies, empty data, and incorrect formats using the `TRIM`, `PROPER`, `UPPER`, `Find & Replace`, and `Filter` formulas.
+3. **Data Analysis:** Analyzing data using PivotTable to identify sales patterns and trends.
+4. **Data Visualization:** Building an interactive dashboard using PivotTable and slicers for data visualization.
+5. **Dashboard Intreaktif:** <a href="https://github.com/jefryramadhan/Data-Analysis-Kedai-Kopi-Senja-Dashboard/blob/main/Dashboard1.png">See The Dashboard</a>
 
 ## Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/1dd7f86f-c2f0-434b-9984-6bcb189d12a7)
 
 
 ## Insight
-Beberapa insight utama yang ditemukan dari analisis ini adalah:
-1. **Dominasi Produk:** Kopi Latte merupakan penyumbang terbesar 28% dari total pendapatan, dan Donat Cokelat menjadi penyumbang terendah dengan 11,66% dari total pendapatan.
-2. **Pola Penjualan Mingguan:** Terdapat pola penjualan jelas dimana puncak penjualan selalu berada di antara hari rabu - jumat.
-3. **Jam Sibuk/ Ramai:** Saat pagi hari (00.00 - 11.00) adalah waktu paling krusial dimana menyumbang 49,38% dari total orderan/transaksi harian.
+Some key insights found from this analysis are:
+1. **Product Dominance:** Latte coffee is the largest contributor to total revenue at 28%, while chocolate donuts are the lowest contributor at 11.66% of total revenue.
+2. **Weekly Sales Pattern:** There is a clear sales pattern where peak sales always occur between Wednesday and Friday.
+3. **Peak Hours:** The morning hours (12:00 AM - 11:00 AM) are the most crucial time, contributing 49.38% of total daily orders/transactions.
 
 ## Rekomendasi 
-Beberapa rekomendasi keputusan bisnis dari temuan tersebut adalah:
-1. Menambah varian baru ( mix dengan Latte) atau menaikkan harga Latte 5%-10%.
-Mengevaluasi produk Donat Cokelat dengan cara memperbaiki formula rasa atau mengganti dengan makanan baru.
-2. Membuat Weekday promotion di hari Rabu -Jumat dengan diskon 15% di setiap pembelian > 2 minuman
-3. Menambah menu paket sarapan. contoh paket  A (Donut + Latte).
-Alokasi karyawan dengan menambah karyawan saat shift pagi.
+Some business recommendations based on these findings are:
+1. Add a new variant (mix with Latte) or increase the price of Latte by 5%-10%.
+Evaluate the Chocolate Donut product by improving the flavor formula or replacing it with a new food item.
+2. Create a weekday promotion on Wednesdays through Fridays with a 15% discount on every purchase of more than two drinks.
+3. Add breakfast packages to the menu. For example, package A (donut + latte).
+Allocate employees by adding employees to the morning shift.
    
 ## Tools
 * **Microsoft Excel:**
@@ -47,7 +47,7 @@ Alokasi karyawan dengan menambah karyawan saat shift pagi.
     * Dashboarding
 
 ## Detail Proyek
-1. **Lihat Presentasi Lengkap:** Untuk rangkuman studi kasus, temuan, dan rekomendasi, silakan lihat file (https://github.com/jefryramadhan/Data-Analysis-Dashboard/blob/main/Analisis%20%26%20Rekomendasi%20Penjualan%20Kedai%20Kopi%20Senja%20Juni%202025.pdf).
+1. **See Full Presentation:** For a summary of case studies, findings, and recommendations, please see the file. (https://github.com/jefryramadhan/Data-Analysis-Dashboard/blob/main/Analisis%20%26%20Rekomendasi%20Penjualan%20Kedai%20Kopi%20Senja%20Juni%202025.pdf).
 
 ## Kontak
 * **LinkedIn:** (www.linkedin.com/in/jefry-ramadhan)
