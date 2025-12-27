@@ -6,7 +6,7 @@
 ## Project Background
 This project is a sales analysis case study for a fictional coffee shop, **“Kedai Kopi Senja”**. The goal is to process raw transaction data for the period of June 2025 into an interactive dashboard. This dashboard is designed to provide business insights that can give the shop owner insight, helping them shift from intuition-based decision making to data-based decision making.
 
-## Tujuan & (KPIs)
+## Goals & (KPIs)
 This analysis focuses on answering business questions such as:
 1. Which products contribute the most to revenue or are the most popular, and which products are less popular?
 2. What are the daily sales trends for products as of June 2025?
@@ -31,7 +31,7 @@ Some key insights found from this analysis are:
 2. **Weekly Sales Pattern:** There is a clear sales pattern where peak sales always occur between Wednesday and Friday.
 3. **Peak Hours:** The morning hours (12:00 AM - 11:00 AM) are the most crucial time, contributing 49.38% of total daily orders/transactions.
 
-## Rekomendasi 
+## Recommendations
 Some business recommendations based on these findings are:
 1. Add a new variant (mix with Latte) or increase the price of Latte by 5%-10%.
 Evaluate the Chocolate Donut product by improving the flavor formula or replacing it with a new food item.
