@@ -46,10 +46,10 @@ Allocate employees by adding employees to the morning shift.
     * Slicer
     * Dashboarding
 
-## Detail Proyek
+## Project Details
 1. **See Full Presentation:** For a summary of case studies, findings, and recommendations, please see the file. (https://github.com/jefryramadhan/Data-Analysis-Kedai-Kopi-Senja-Dashboard-Excel/blob/main/Analysis%20%26%20Business%20Recommendation%20Senja%20Coffee%20shop.pdf).
 
-## Kontak
+## Contact Me
 * **LinkedIn:** (www.linkedin.com/in/jefry-ramadhan)
 * **Email:** rahmadjefry@gmail.com 
 
